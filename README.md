@@ -26,5 +26,5 @@ For this assignment, I made a program that reads in a text file full of infor ab
 
   This project taught me a lot about text processing using Python. I found that the advantages were that it was easy to manipulate sentences, strings, and even individual characters because it was easy to break the larger text down into these parts. One disadvantage I noted was that it was hard to translate my knowledge of other coding languages into Python, as I had never coded in it before this. Overall I learned how to use regular expressions and tokenization. Something else that was new to me was the use of pickling while the initial standard file reading was a review. Below is a link to the assignment.
 
-https://github.com/liamleece/CS-4395.001/blob/main/Homework1_lcl180002.py
-  https://github.com/liamleece/CS-4395.001/blob/main/Homework1_lcl180002.py
+[Project 1](https://github.com/liamleece/CS-4395.001/blob/main/Homework1_lcl180002.py)
+
