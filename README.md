@@ -19,3 +19,12 @@ NLP, or Natural Lnaguage Processing, is the crossroads between computer science 
 ## My interest in NLP
 
     After taking an interesting AI course in a previous semester, I felt the obvious next step was to learn how machines can communicate with humans through the human language. I wish to learn more about NLP and how artificial intelligence uses natural language generation and the three NLP approaches to have unique interactions and conversations with people. Overall I believe this course will be fun and thought provoking while still providing me with valuable computer science skills for my future career.
+    
+# Project 1
+
+For this assignment, I made a program that reads in a text file full of infor about employees. It then deciphers the text and formats it while also creating unique objects for each person based on their ID. To run this program, simply call Homework1_lcl180002.py followed by the path to the file you want to decipher.
+
+  This project taught me a lot about text processing using Python. I found that the advantages were that it was easy to manipulate sentences, strings, and even individual characters because it was easy to break the larger text down into these parts. One disadvantage I noted was that it was hard to translate my knowledge of other coding languages into Python, as I had never coded in it before this. Overall I learned how to use regular expressions and tokenization. Something else that was new to me was the use of pickling while the initial standard file reading was a review. Below is a link to the assignment.
+
+https://github.com/liamleece/CS-4395.001/blob/main/Homework1_lcl180002.py
+  https://github.com/liamleece/CS-4395.001/blob/main/Homework1_lcl180002.py
