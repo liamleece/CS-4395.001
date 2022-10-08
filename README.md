@@ -14,9 +14,12 @@ Liam Leece
 
 [WordNet Assignment](https://github.com/liamleece/CS-4395.001/blob/main/WordNet.ipynb%20-%20Colaboratory.pdf)
 
-[Ngram Assignment Overview](https://github.com/liamleece/CS-4395.001/blob/main/Ngrams.pdf)
-[Ngram Program 1](https://github.com/liamleece/CS-4395.001/blob/main/Pickle.py)
-[Ngram Program 2](https://github.com/liamleece/CS-4395.001/blob/main/Ngram.py)
+[Ngram Project Overview](https://github.com/liamleece/CS-4395.001/blob/main/Ngrams.pdf)
+- [Ngram Program 1](https://github.com/liamleece/CS-4395.001/blob/main/Pickle.py)
+- [Ngram Program 2](https://github.com/liamleece/CS-4395.001/blob/main/Ngram.py)
+
+[Web Crawler Project Report]()
+- [Web Crawler Program]
 
 # Overview of NLP
 
