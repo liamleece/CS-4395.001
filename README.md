@@ -21,6 +21,8 @@ Liam Leece
 [Web Crawler Project Report](https://github.com/liamleece/CS-4395.001/blob/main/Webcrawler%20Project.pdf)
 - [Web Crawler Program](https://github.com/liamleece/CS-4395.001/blob/main/web_crawler.py)
 
+[Sentence Parsing Assignment](https://github.com/liamleece/CS-4395.001/blob/main/Sentence%20Parsing.pdf)
+
 # Overview of NLP
 
 NLP, or Natural Lnaguage Processing, is the crossroads between computer science and the human language. It encompasses many fields of study from both topics such as AI, speech patterns, and language translation. NLP and AI have an interesting relationship, where one field cannot continue to grow and expand without the other. The advancements in NLP have allowed humans to talk to machines and have the machine understand their words while the advancements in AI and machine learning has allowed NLP machines determine meaning and intent behind the human language. In the same way humans listen first and learn to talk, computers now have the ability to respond through the use of natural language generation. This is similar to natural language understanding but distinct because the machine makes its own catered response based on what input it receives, thus lighting the spark of conversation.
