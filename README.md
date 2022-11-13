@@ -27,6 +27,9 @@ Liam Leece
 
 [ACL Summary Paper](https://github.com/liamleece/CS-4395.001/blob/main/ACL%20Summary.pdf)
 
+[Chatbot Project Overview](https://github.com/liamleece/CS-4395.001/blob/main/Chatbot%20Report.pdf)
+[Chatbot Main Code](https://github.com/liamleece/CS-4395.001/blob/main/Chatbot.py)
+[Chatbot Intents](https://github.com/liamleece/CS-4395.001/blob/main/intents.json)
 
 # Overview of NLP
 
